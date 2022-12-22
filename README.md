@@ -5,10 +5,6 @@ First, start a MongoDB instance using docker:
 ```sh
 docker run --name mongodb -d -p 27017:27017 mongo
 ```
-Next, clone the repository:
-```sh
-git clone git@github.com:parsaakbari1209/go-mongo-crud-rest-api.git
-```
 Next, change the current directory to the repository:
 ```sh
 cd go-mongo-crud-rest-api
